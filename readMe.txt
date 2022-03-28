@@ -1,4 +1,5 @@
 - All the code files are available in this folder:
+- Please change the path for all the files according to location where the files are downloaded.
 
 - Pre-processing TRAIN and TEST data.ipynb (is the text pre-processing file)
 	- Part 1: 

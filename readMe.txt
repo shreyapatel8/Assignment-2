@@ -1,16 +1,16 @@
 - All the code files are available in this folder:
 
-  - Pre-processing TRAIN and TEST data.ipynb (is the text pre-processing file)
+- Pre-processing TRAIN and TEST data.ipynb (is the text pre-processing file)
 	- Part 1: 
-  - baseline.py 
+  		- baseline.py 
 	- Part 2:
-  - (a) lstmANDbilstm.py (code for LSTM and Bi-di LSTM)
-	- (b) dl-cnn.py (code for the CNN model)
-	- (c) deepNN.py (code for the Deep Neural network)
-  - Part 3:
-	- (a) pre_processing.py (code for the pre-processing of the unlabelled data)
-	- (b) lstm-unlabelled.py (code for predicting the unlabelled data)
-	- (c) analysis.py 
+  		(a) lstmANDbilstm.py (code for LSTM and Bi-di LSTM)
+		(b) dl-cnn.py (code for the CNN model)
+		(c) deepNN.py (code for the Deep Neural network)
+  	- Part 3:
+		(a) pre_processing.py (code for the pre-processing of the unlabelled data)
+		(b) lstm-unlabelled.py (code for predicting the unlabelled data)
+		(c) analysis.py 
 	- final_results.py (writing the results to the text file)
 
 	- glove.6B file - text file was used for embedding
